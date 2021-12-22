@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x691635443ed8db75bbc57930f4b25b728735882e",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x691635443ed8db75bbc57930f4b25b728735882e",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "DripMonkeyz",
+  "SYMBOL": "DMNFT",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/dripmonkeyz",
+  "SHOW_BACKGROUND": true
+}
